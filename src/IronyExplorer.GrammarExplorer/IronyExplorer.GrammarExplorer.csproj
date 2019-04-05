@@ -35,11 +35,11 @@
     <Reference Include="FastColoredTextBox">
       <HintPath>..\..\libs\FastColoredTextBox\FastColoredTextBox.dll</HintPath>
     </Reference>
-    <Reference Include="Irony, Version=1.0.4.0, Culture=neutral, PublicKeyToken=ca48ace7223ead47, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Irony.1.0.4\lib\net461\Irony.dll</HintPath>
+    <Reference Include="IronyCore">
+      <HintPath>..\..\..\..\_git\Unicode\Bin\Debug\IronyCore.dll</HintPath>
     </Reference>
-    <Reference Include="Irony.Interpreter, Version=1.0.4.0, Culture=neutral, PublicKeyToken=ca48ace7223ead47, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Irony.Interpreter.1.0.4\lib\net461\Irony.Interpreter.dll</HintPath>
+    <Reference Include="IronyInterpreter">
+      <HintPath>..\..\..\..\_git\Unicode\Bin\Debug\IronyInterpreter.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
